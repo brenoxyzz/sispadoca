@@ -1,0 +1,16 @@
+C:\Users\alunoetec\sispadocabrx\sispadocabrx\bin\Debug\net10.0-windows\sispadocabrx.exe
+C:\Users\alunoetec\sispadocabrx\sispadocabrx\bin\Debug\net10.0-windows\sispadocabrx.deps.json
+C:\Users\alunoetec\sispadocabrx\sispadocabrx\bin\Debug\net10.0-windows\sispadocabrx.runtimeconfig.json
+C:\Users\alunoetec\sispadocabrx\sispadocabrx\bin\Debug\net10.0-windows\sispadocabrx.dll
+C:\Users\alunoetec\sispadocabrx\sispadocabrx\bin\Debug\net10.0-windows\sispadocabrx.pdb
+C:\Users\alunoetec\sispadocabrx\sispadocabrx\obj\Debug\net10.0-windows\sispadocabrx.FrmPrincipal.resources
+C:\Users\alunoetec\sispadocabrx\sispadocabrx\obj\Debug\net10.0-windows\sispadocabrx.csproj.GenerateResource.cache
+C:\Users\alunoetec\sispadocabrx\sispadocabrx\obj\Debug\net10.0-windows\sispadocabrx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alunoetec\sispadocabrx\sispadocabrx\obj\Debug\net10.0-windows\sispadocabrx.AssemblyInfoInputs.cache
+C:\Users\alunoetec\sispadocabrx\sispadocabrx\obj\Debug\net10.0-windows\sispadocabrx.AssemblyInfo.cs
+C:\Users\alunoetec\sispadocabrx\sispadocabrx\obj\Debug\net10.0-windows\sispadocabrx.csproj.CoreCompileInputs.cache
+C:\Users\alunoetec\sispadocabrx\sispadocabrx\obj\Debug\net10.0-windows\sispadocabrx.dll
+C:\Users\alunoetec\sispadocabrx\sispadocabrx\obj\Debug\net10.0-windows\refint\sispadocabrx.dll
+C:\Users\alunoetec\sispadocabrx\sispadocabrx\obj\Debug\net10.0-windows\sispadocabrx.pdb
+C:\Users\alunoetec\sispadocabrx\sispadocabrx\obj\Debug\net10.0-windows\sispadocabrx.genruntimeconfig.cache
+C:\Users\alunoetec\sispadocabrx\sispadocabrx\obj\Debug\net10.0-windows\ref\sispadocabrx.dll
